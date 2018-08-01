@@ -1,6 +1,6 @@
 # wifi-qr
 
-Generate QR code for connecting wifi on iOS11.
+Generate QR code for connecting wifi.
 
 ## Install
 
