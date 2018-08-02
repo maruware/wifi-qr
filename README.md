@@ -6,6 +6,8 @@ Generate QR code for connecting wifi.
 
 Download binary from [release page](https://github.com/maruware/wifi-qr/releases) and place it in $PATH directory.
 
+or
+
 ```bash
 $ go get github.com/maruware/wifi-qr
 ```
