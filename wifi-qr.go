@@ -7,6 +7,8 @@ import (
 	"fmt"
 )
 
+const version = "v0.1"
+
 func main() {
 	flag.Parse()
 	args := flag.Args()
